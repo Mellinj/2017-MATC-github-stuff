@@ -1,3 +1,6 @@
-This is a test file created from github ui.
-I am learning how github works.
-I like to eat.
+<html>
+This is a test file created from github ui.<br>
+I am learning how github works.<br>
+I like to eat.<br>
+Today has been quite the morning already.<br>  
+</html>
